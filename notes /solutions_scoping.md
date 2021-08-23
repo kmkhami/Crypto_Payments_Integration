@@ -48,8 +48,8 @@ Same steps as coinbase after the list
 * Lower fees 
 
 #### Cons
-* Requires more infrastrucure building 
-* Doesn't allow for purchase/sale of coins 
+* Requires more infrastructure building 
+* Doesn't allow for purchase/sale of coins directly, but does integrate
 * No way for payment method integration/continuation 
 * Makes PaymentSpring responsible for things like wallet passwords, transaction speed, transaction fees, omni layer, etc.  
 * Heavy logistics 
