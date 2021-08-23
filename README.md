@@ -13,3 +13,7 @@ capital gains
 ### Business Goals 
 * Enable customers to accept new forms of payment 
 * Innovate in an emerging payment space 
+
+### Project Questions 
+* How can PaymentSpring start processing crypto payments with as little friction as possible? 
+* How hard is it to integrate into a crypto exchange? 
